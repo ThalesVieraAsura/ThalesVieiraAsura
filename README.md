@@ -24,6 +24,7 @@
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 </div><br/>
 
 #### 💭O fracasso é uma ótima oportunidade para começar de novo de forma mais inteligente.💭
