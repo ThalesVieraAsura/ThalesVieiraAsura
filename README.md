@@ -4,7 +4,7 @@
 
 ![ThalesVieraAsura GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesVieraAsura&show_icons=true&theme=tokyonight)
 
-### E esses são meus projetos e tecnologias utilizadas.
+### Tecnologias que uso no meu dia.
 
 
 <div style="display: inline_block"><br/>
