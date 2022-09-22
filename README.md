@@ -1,6 +1,6 @@
 ### Olá eu sou o Thales Vieira ✌️
 
-### E esses são meus projetos Back-End e tecnologias utilizadas.
+### E esses são meus projetos e tecnologias utilizadas.
 
 
 <div style="display: inline_block"><br/>
