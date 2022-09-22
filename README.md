@@ -31,6 +31,7 @@
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div><br/>
 
 #### 💭O fracasso é uma ótima oportunidade para começar de novo de forma mais inteligente.💭
