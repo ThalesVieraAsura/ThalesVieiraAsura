@@ -38,11 +38,5 @@
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </div><br/>
 
-<div>
-   ![Snake animation](https://github.com/ThalesVieraAsura
-/
-ThalesVieiraAsura/blob/output/github-contribution-grid-snake.svg)
-</div<br/>
-
 #### 💭O fracasso é uma ótima oportunidade para começar de novo de forma mais inteligente.💭
 ##### Henry Ford
