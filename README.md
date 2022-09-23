@@ -39,7 +39,9 @@
 </div><br/>
 
 <div>
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/ThalesVieraAsura
+/
+ThalesVieiraAsura/blob/output/github-contribution-grid-snake.svg)
 </div<br/>
 
 #### 💭O fracasso é uma ótima oportunidade para começar de novo de forma mais inteligente.💭
