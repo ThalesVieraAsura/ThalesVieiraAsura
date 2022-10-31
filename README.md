@@ -1,6 +1,8 @@
 ### Olá eu sou o Thales Vieira ✌️
 
-[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-barbosa-da-silva-vieira-a5b5b1150/)
+[![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalesvieira09/)
+
+![Thales GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesVieraAsura&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia
 
